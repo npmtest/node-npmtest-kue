@@ -1,7 +1,7 @@
 # test coverage for  [kue (v0.11.5)](http://automattic.github.io/kue/)  [![npm package](https://img.shields.io/npm/v/npmtest-kue.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kue) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kue.svg)](https://travis-ci.org/npmtest/node-npmtest-kue)
 #### Feature rich priority job queue backed by redis
 
-[![NPM](https://nodei.co/npm/kue.png?downloads=true)](https://www.npmjs.com/package/kue)
+[![NPM](https://nodei.co/npm/kue.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/kue)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-kue/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,11 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-kue/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-kue/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-kue/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-kue/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-kue/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-kue/build/coverage.html/index.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-kue/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-kue/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-kue/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-kue%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-kue/build/test-report.html)
+[![test-report](https://npmtest.github.io/node-npmtest-kue/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-kue/build/test-report.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-kue/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-kue%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-kue/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-kue/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-kue/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-kue/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +27,7 @@
 
 {
     "author": {
-        "name": "TJ Holowaychuk",
-        "email": "tj@learnboost.com"
+        "name": "TJ Holowaychuk"
     },
     "bin": {
         "kue-dashboard": "bin/kue-dashboard"
@@ -38,8 +37,7 @@
     },
     "contributors": [
         {
-            "name": "Behrad Zari",
-            "email": "behradz@gmail.com"
+            "name": "Behrad Zari"
         }
     ],
     "dependencies": {
@@ -81,23 +79,19 @@
     "main": "index",
     "maintainers": [
         {
-            "name": "tjholowaychuk",
-            "email": "tj@vision-media.ca"
+            "name": "tjholowaychuk"
         },
         {
-            "name": "drudge",
-            "email": "nick@penree.com"
+            "name": "drudge"
         },
         {
-            "name": "behrad",
-            "email": "behradz@gmail.com"
+            "name": "behrad"
         }
     ],
     "name": "kue",
     "optionalDependencies": {
         "reds": "^0.2.5"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Automattic/kue.git"
