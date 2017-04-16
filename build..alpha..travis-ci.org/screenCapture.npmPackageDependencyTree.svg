@@ -165,7 +165,7 @@
 <tspan x="10" y="2602">    │   │ └─┬ strip-bom@2.0.0 </tspan>
 <tspan x="10" y="2618">    │   │   └── is-utf8@0.2.1 </tspan>
 <tspan x="10" y="2634">    │   ├─┬ normalize-package-data@2.3.6 </tspan>
-<tspan x="10" y="2650">    │   │ ├── hosted-git-info@2.4.1 </tspan>
+<tspan x="10" y="2650">    │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="2666">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="2682">    │   │ │ └── builtin-modules@1.1.1 </tspan>
 <tspan x="10" y="2698">    │   │ ├── semver@5.3.0 </tspan>
