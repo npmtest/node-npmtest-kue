@@ -1,4 +1,7 @@
-# test coverage for  [kue (v0.11.5)](http://automattic.github.io/kue/)  [![npm package](https://img.shields.io/npm/v/npmtest-kue.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kue) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kue.svg)](https://travis-ci.org/npmtest/node-npmtest-kue)
+# npmtest-kue
+
+#### test coverage for  [kue (v0.11.5)](http://automattic.github.io/kue/)  [![npm package](https://img.shields.io/npm/v/npmtest-kue.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kue) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kue.svg)](https://travis-ci.org/npmtest/node-npmtest-kue)
+
 #### Feature rich priority job queue backed by redis
 
 [![NPM](https://nodei.co/npm/kue.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/kue)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-kue/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-kue/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-kue/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-kue/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-kue/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-kue/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-kue/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-kue/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-kue/build/test-report.html](https://npmtest.github.io/node-npmtest-kue/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-kue/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-kue/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-kue/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-kue/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-kue/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-kue/build/apidoc.html)
 
