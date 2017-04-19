@@ -1,6 +1,6 @@
 # npmtest-kue
 
-#### test coverage for  [kue (v0.11.5)](http://automattic.github.io/kue/)  [![npm package](https://img.shields.io/npm/v/npmtest-kue.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kue) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kue.svg)](https://travis-ci.org/npmtest/node-npmtest-kue)
+#### basic test coverage for  [kue (v0.11.5)](http://automattic.github.io/kue/)  [![npm package](https://img.shields.io/npm/v/npmtest-kue.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kue) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kue.svg)](https://travis-ci.org/npmtest/node-npmtest-kue)
 
 #### Feature rich priority job queue backed by redis
 
